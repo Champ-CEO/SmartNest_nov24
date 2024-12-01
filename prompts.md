@@ -52,3 +52,21 @@ button:hover {
 }
 
 The glow should match the bright pink background of a hovered button.
+
+
+## Prompt 6
+Please update the necessary code to display the temperature at 
+78 degrees Fahrenheit initially. Allow users to increase or decrease 
+the temperature by clicking the corresponding buttons. 
+Style the temperature display accordingly with CSS.
+
+## Prompt 7
+Update the code to implement the music control section with 
+Play/Pause, Stop, and Next button functionality. Display a 
+random funny song name when the "Play" button is clicked. 
+
+Make sure the song name changes when a user clicks the next button. 
+Style the song text accordingly with CSS.
+
+## Prompt 8
+Help me name this smart home interface project by suggesting clever product names.
